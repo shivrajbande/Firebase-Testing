@@ -140,6 +140,8 @@ class _generatorState extends State<generator> {
                   ],
                 ),
                 Column(
+
+                  // mainAxisAlignment : MainAxisAlignment.spaceevenly,
                   mainAxisSize: MainAxisSize.max,
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [

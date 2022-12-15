@@ -41,7 +41,7 @@ dependencies:
   google_fonts: ^3.0.1
   firebase_storage: ^10.3.4
   file_picker: ^5.0.0
-  flutter_secure_storage: ^5.0.2
+  shared_preferences: ^2.0.15
   flutter_launcher_icons: ^0.10.0
 
 dev_dependencies:
@@ -80,6 +80,7 @@ flutter:
     - assets/images/error2.gif
     - assets/images/nodataFound.jpg
     - assets/images/v10.png
+    - assets/images/dlogo.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
